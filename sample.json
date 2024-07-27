@@ -1,0 +1,15 @@
+[
+    {
+      "email": "user1@example.com",
+      "password": "password123",
+      "createdAt": {"$date": "2023-07-27T10:00:00Z"},
+      "isActive": true
+    },
+    {
+      "email": "user2@example.com",
+      "password": "securepass456",
+      "createdAt": {"$date": "2023-07-27T11:15:00Z"},
+      "isActive": true
+    }
+
+  ]
